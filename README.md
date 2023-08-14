@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kushalrijal7" target="blank"><img src="https://img.shields.io/twitter/follow/kushalrijal7?logo=twitter&style=for-the-badge" alt="kushalrijal7" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [kushalrijal.com.np](kushalrijal.com.np)
-
 - 📫 How to reach me **kushal.terhathum.kr7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
