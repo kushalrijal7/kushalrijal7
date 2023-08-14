@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Rijal</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0uXkB5gmqLY6UbrEtMfitG&ust=1692094569970000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCPDu1s_124ADFQAAAAAdAAAAABDFAQ">
+<img align="right"alt="coding"width="400"src="C:/Users/kusha/Downloads/bcd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalrijal7&label=Profile%20views&color=0e75b6&style=flat" alt="kushalrijal7" /> </p>
 
