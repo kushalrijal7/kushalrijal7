@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Rijal</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-<img align="right" alt="coding" width="400" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalrijal7&label=Profile%20views&color=0e75b6&style=flat" alt="kushalrijal7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kushalrijal7" target="blank"><img src="https://img.shields.io/twitter/follow/kushalrijal7?logo=twitter&style=for-the-badge" alt="kushalrijal7" /></a> </p>
